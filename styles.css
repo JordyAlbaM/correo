@@ -1,0 +1,44 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+    background: red;
+}
+
+form
+{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    height: 300px;
+    width: 250px;
+    background: aqua;
+
+}
+
+input
+{
+    position: relative;
+    left: 10%;
+    top: 30%;
+    margin: 10px;
+
+
+
+}
+input[type="submit"]
+{
+    top: 40%;
+
+}
+textarea
+{
+    position: relative;
+    top: 30%;
+    left: 10%;
+    min-width: 10px;
+    min-height: 10px;
+    width: 180px;
+    height: 20px;
+}
